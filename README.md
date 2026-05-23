@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola, soy Juan Esteban Vasquez Sanabria! 👋
 
-<!--
-**juanvsdev/juanvsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Sistemas** en la **Universidad Cooperativa de Colombia (UCC)**. Desarrollador de software apasionado por la creación de soluciones digitales, la inteligencia artificial y el emprendimiento tecnológico.
 
-Here are some ideas to get you started:
+Lidero **Abaton Systems**, donde materializamos ideas a través de software a medida y soluciones SaaS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+* 🎓 Actualmente formándome como Ingeniero de Sistemas en la **UCC**.
+* 🛠 Fundador de **[Abaton Systems]()**.
+* 🤖 Amante de la **Inteligencia Artificial** y su aplicación práctica en el desarrollo.
+
+---
+
+### 💻 Tech Stack
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend / Desktop** | C#, .NET, SQL Server, WinForms |
+| **Web Development** | HTML, CSS, React, Vue.js |
+| **IA & Data** | Python, Pandas, Matplotlib, Seaborn, Random Forest |
+
+
+---
+
+### 📫 Hablemos
+¡Siempre estoy abierto a aprender, colaborar en proyectos desafiantes o compartir ideas!
+* 📧 [jvasquezsanabria@gmail.com]
+* 💼 [https://www.linkedin.com/in/juan-esteban-vasquez-sanabria-b17494339/]
+
+*“Transformando retos en soluciones tecnológicas.”*
+
+---
+*📍 Ibagué, Colombia*
