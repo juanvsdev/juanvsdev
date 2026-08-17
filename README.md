@@ -2,13 +2,13 @@
 
 Estudiante de **Ingeniería de Sistemas** en la **Universidad Cooperativa de Colombia (UCC)**. Desarrollador de software apasionado por la creación de soluciones digitales, la inteligencia artificial y el emprendimiento tecnológico.
 
-Lidero **Abaton Systems**, donde materializamos ideas a través de software a medida y soluciones SaaS.
+Lidero **Abbaton Systems**, donde materializamos ideas a través de software a medida y soluciones SaaS.
 
 ---
 
 ### 🚀 Sobre mí
 * 🎓 Actualmente formándome como Ingeniero de Sistemas en la **UCC**.
-* 🛠 Fundador de **[Abaton Systems]()**.
+* 🛠 Fundador de **[Abbaton Systems]()**.
 * 🤖 Amante de la **Inteligencia Artificial** y su aplicación práctica en el desarrollo.
 
 ---
